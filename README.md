@@ -1,20 +1,20 @@
 <p align="center">
       <img style="width:100px; height: 100px;"  src="https://telegra.ph/file/c823fea618f6c024e75a9.png"></p>
-<h1 align="center"><b>Rose bot ✨</b></h1>
+<h1 align="center"><b>Isablla Bot ✨</b></h1>
 <h2 align="center"><b>The Telegram Bot to manage and protect groups</b></h2>
 <h4 align="center">Rose bot  simplifies the management, administration and security of your group</h4>
 
 <p align="center">
-    <img src="https://img.shields.io/github/license/szsupunma/sz-rosebot?style=for-the-badge&logo=appveyor" alt="LICENSE">
-    <img src="https://img.shields.io/github/contributors/szsupunma/sz-rosebot?style=for-the-badge&logo=appveyor" alt="Contributors">
-    <img src="https://img.shields.io/github/repo-size/szsupunma/sz-rosebot?style=for-the-badge&logo=appveyor" alt="Repository Size"> <br>
-    <img src="https://img.shields.io/github/issues/szsupunma/sz-rosebot?style=for-the-badge&logo=appveyor" alt="Issues">
-    <img src="https://img.shields.io/github/forks/szsupunma/sz-rosebot?style=for-the-badge&logo=appveyor" alt="Forks">
-    <img src="https://img.shields.io/github/stars/szsupunma/sz-rosebot?style=for-the-badge&logo=appveyor" alt="Stars">
-    <img href="https://crowdin.com/project/szrosebot" src="https://badges.crowdin.net/szrosebot/localized.svg" alt="crowndin"> 
+    <img src="" alt="LICENSE">
+    <img src="" alt="Contributors">
+    <img src="" alt="Repository Size"> <br>
+    <img src="" alt="Issues">
+    <img src="" alt="Forks">
+    <img src="" alt="Stars">
+    <img href="" src="https://badges.crowdin.net/szrosebot/localized.svg" alt="crowndin"> 
 </p>
 
-## What is Rose for ?
+## What is Isabella  for ?
 
 Have you ever received Telegram in your group **spam, adder, flood,** people who send link, channel message, promoting, arabic ? Rose Bot is the automatic moderator that manages your Telegram group and punishes malicious users automatically for you.
 
@@ -54,18 +54,18 @@ Maybe not enough to make them admin, but you might be ok with locks, blocklists,
 That's what approvals are for - approve of trustworthy users to allow them to send 
 
 # Start protecting your group now!
-Getting started protecting and managing your group better with Rose Bot is very simple: [Click Here](http://t.me/szrosebot?startgroup=new) to add the bot to the group, then set it as administrator and send the command /help to manage the bot at 360° in all its functions and automations.
+Getting started protecting and managing your group better with Rose Bot is very simple: [Click Here](http://t.me/miss_Isabella_Robot?startgroup=new) to add the bot to the group, then set it as administrator and send the command /help to manage the bot at 360° in all its functions and automations.
 
 ## Customize your Rose Bot - create a clone (Deploy Heroku)
 If you want to make your bot even more unique, you can create a customized rose bot clone with a name and profile photo of your choice.
 
 <img style="width:300px; height: 200px;" href="https://youtu.be/ZUvFSU8W7VA" src="https://telegra.ph/file/cf3a10a7f61f62983d2ca.png" alt="youtube"> 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/szsupunma/sz-rosebot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=)
 
 ## Contact & Support Chats
 
- - [support group ](https://t.me/slbotzone)
+ - [support group ](https://t.me/Gangofmafiateem)
  - [News Channel ](https://t.me/szroseupdates) 
  - [Documentation ](https://szsupunma.gitbook.io/rose-bot/)
  - [Logs Channel ](https://t.me/szroselog)
