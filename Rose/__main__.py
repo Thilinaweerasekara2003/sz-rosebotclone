@@ -76,8 +76,8 @@ async def start_bot():
  _____________________________________________   
 |                                             |  
 |          Deployed Successfully              |  
-|         (C) 2021-2022 by @szteambots        | 
-|          Greetings from supun  :)           |
+|         (C) 2021-2022 by @IsabellaUpdate    | 
+|          Greetings from Thilina  :)         |
 |_____________________________________________| """)
     await idle()
     await aiohttpsession.close()
@@ -162,11 +162,11 @@ My name is {BOT_NAME} an  advanced telegram Group management Bot For helpYou Pro
 
 
 fbuttons = InlineKeyboardMarkup(
-        [[InlineKeyboardButton(text="👥Support Group", url="https://t.me/szrosesupport"),
-          InlineKeyboardButton(text="👤News Channel", url="https://t.me/Theszrosebot")], 
-        [ InlineKeyboardButton(text="⚒ Source Code", url="https://github.com/szsupunma/sz-rosebot"),
-          InlineKeyboardButton(text="📓 Documentation", url="https://szsupunma.gitbook.io/rose-bot")], 
-        [InlineKeyboardButton(text="🖥 How To Deploy Me", url="https://szsupunma.gitbook.io/rose-bot")
+        [[InlineKeyboardButton(text="👥Support Group", url="https://t.me/gangofmafiatm"),
+          InlineKeyboardButton(text="👤News Channel", url="https://t.me/IsabellaUpdate")], 
+        [ InlineKeyboardButton(text="⚒ Source Code", url="https://github.com/Thilinaweerasekara2003/sz-rosebotclone"),
+          InlineKeyboardButton(text="📓 Documentation", url="https://t.me/gangofmafiatm")], 
+        [InlineKeyboardButton(text="🖥 How To Deploy Me", url="https://t.me/gangofmafiatm")
         ],[InlineKeyboardButton("« Back", callback_data='startcq')]])
 
 keyboard =InlineKeyboardMarkup(
@@ -243,7 +243,7 @@ async def startcq(client,CallbackQuery, _):
         text=f"""
 Hey there {CallbackQuery.from_user.mention}, 
 
-My name is Rose an  advanced telegram Group management Bot For helpYou Protect Your Groups & Suit For All Your Needs.feel free to add me to your groups! """,
+My name is Isabella an  advanced telegram Group management Bot For helpYou Protect Your Groups & Suit For All Your Needs.feel free to add me to your groups! """,
         disable_web_page_preview=True,
         reply_markup=home_keyboard_pm)
 
@@ -258,7 +258,7 @@ async def help_parser(name, keyboard=None):
 I'm a group management bot with some useful features.
 You can choose an option below, by clicking a button.
 If you have any bugs or questions on how to use me, 
-have a look at my [Docs](https://szsupunma.gitbook.io/rose-bot/), or head to @szteambots.
+have a look at my [Info](t.me/Thilina2004), or head to @gangofmafiatm.
 
 **All commands can be used with the following: / **""",keyboard)
 
